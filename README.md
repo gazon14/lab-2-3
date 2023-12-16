@@ -39,7 +39,7 @@
 Використані джерела
 
 [charGPT](https://chat.openai.com)  <br/>
-google.com <br/>
+google.com\ <br/>
 https://youtu.be/OpL0Gcfn4B4?si=PMdHQNenQpOjWFVT <br/>
 [stackoverflow.com](https://stackoverflow.com)/<br/>
 
