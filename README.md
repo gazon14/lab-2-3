@@ -40,11 +40,11 @@
 
 charGPT  <br/>
 google <br/>
-[youtube](https://youtu.be/OpL0Gcfn4B4?si=PMdHQNenQpOjWFVT) <br/>
+https://youtu.be/OpL0Gcfn4B4?si=PMdHQNenQpOjWFVT <br/>
 stackoverflow.com/<br/>
 
 
-
+<br/>
 
 # Game Snapshots
 
