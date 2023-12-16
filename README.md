@@ -38,10 +38,10 @@
 
 Використані джерела
 
-charGPT  <br/>
-google <br/>
+[charGPT](https://chat.openai.com)  <br/>
+google.com <br/>
 https://youtu.be/OpL0Gcfn4B4?si=PMdHQNenQpOjWFVT <br/>
-stackoverflow.com/<br/>
+[stackoverflow.com](https://stackoverflow.com)/<br/>
 
 
 <br/>
